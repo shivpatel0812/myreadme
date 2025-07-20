@@ -10,78 +10,65 @@
 
 ## 🚀 Featured Projects
 
-<p align="left">
+### 🪪 AI Business Card Analyzer  
+AI-powered app that extracts and analyzes business cards using OpenAI Vision, AWS Lambda, and Firebase.  
+[🔗 GitHub](https://github.com/shivpatel0812/ai_business_analyzer)
 
-🔹 <strong>AI Business Card Analyzer</strong>  
-🪪 AI-powered app that extracts and analyzes business cards using OpenAI Vision, AWS Lambda, and Firebase.  
-<a href="https://github.com/shivpatel0812/ai_business_analyzer">🔗 GitHub</a>
+### 🏢 Building Capacity Tracker  
+Real-time library occupancy tracker using Raspberry Pi, YOLOv8, and cloud deployment.  
+[🔗 GitHub](https://github.com/shivpatel0812/Building_Cap_Track)
 
-<br><br>
+### 🎬 VideoAgent  
+CLIP-powered video understanding app with async APIs and vector search using PostgreSQL.  
+[🔗 GitHub](https://github.com/shivpatel0812/videoagent)
 
-🔹 <strong>Building Capacity Tracker</strong>  
-🏢 Real-time library occupancy tracker using Raspberry Pi, YOLOv8, and cloud deployment.  
-<a href="https://github.com/shivpatel0812/Building_Cap_Track">🔗 GitHub</a>
+### 🏈 NFL Defense Classification  
+Machine learning pipeline classifying NFL plays based on defensive formations.  
+[🔗 GitHub](https://github.com/shivpatel0812/NFLDefenseClassification)
 
-<br><br>
-
-🔹 <strong>VideoAgent</strong>  
-🎬 CLIP-powered video understanding app with async APIs and vector search using PostgreSQL.  
-<a href="https://github.com/shivpatel0812/videoagent">🔗 GitHub</a>
-
-<br><br>
-
-🔹 <strong>NFL Defense Classification</strong>  
-🏈 Machine learning pipeline classifying NFL plays based on defensive formations.  
-<a href="https://github.com/shivpatel0812/NFLDefenseClassification">🔗 GitHub</a>
-
-<br><br>
-
-🔹 <strong>AI Career Prediction</strong>  
-📊 Predicts career paths based on input skillsets and background using Python-based ML models.  
-<a href="https://github.com/shivpatel0812/AICareerPrediction">🔗 GitHub</a>
-
-</p>
+### 📊 AI Career Prediction  
+Predicts career paths based on input skillsets and background using Python-based ML models.  
+[🔗 GitHub](https://github.com/shivpatel0812/AICareerPrediction)
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-### 🧠 Languages  
-<img src="https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=007396"/>
-<img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-<img src="https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3"/>
-<img src="https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1"/>
-<img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-<img src="https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6"/>
-<img src="https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC"/>
-<img src="https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C"/>
-<img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
-<img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-blue?logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### 🛠️ Dev Tools  
-<img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
-<img src="https://img.shields.io/badge/-React_Native-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
-<img src="https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717"/>
-<img src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900"/>
-<img src="https://img.shields.io/badge/-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4"/>
-<img src="https://img.shields.io/badge/-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/>
-<img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED"/>
-<img src="https://img.shields.io/badge/-OpenAI_API-informational?style=flat&logo=openai&logoColor=white&color=412991"/>
-<img src="https://img.shields.io/badge/-LangChain-informational?style=flat&color=0A192F"/>
-<img src="https://img.shields.io/badge/-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=02303A"/>
+### ⚙️ Dev Tools  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000)
 
 ### 🧱 Frameworks & Stack  
-<img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
-<img src="https://img.shields.io/badge/-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000"/>
-<img src="https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688"/>
-<img src="https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000"/>
-<img src="https://img.shields.io/badge/-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=38B2AC"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791"/>
-<img src="https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248"/>
-<img src="https://img.shields.io/badge/-JUnit-informational?style=flat&logo=java&logoColor=white&color=25A162"/>
-<img src="https://img.shields.io/badge/-pytest-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-<img src="https://img.shields.io/badge/-Playwright-informational?style=flat&logo=microsoft&logoColor=white&color=40B5A4"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-3776AB?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-40B5A4?logo=microsoft&logoColor=white)
 
 ---
 
@@ -94,6 +81,5 @@
 
 ---
 
-## 📫 Let's Connect
-
+## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiv-patel-19a330205/)
