@@ -6,29 +6,11 @@
   🧠 I build intelligent, scalable systems across the stack with a focus on real-world impact.
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🪪 AI Business Card Analyzer  
-AI-powered app that extracts and analyzes business cards using OpenAI Vision, AWS Lambda, and Firebase.  
-[🔗 GitHub](https://github.com/shivpatel0812/ai_business_analyzer)
-
-### 🏢 Building Capacity Tracker  
-Real-time library occupancy tracker using Raspberry Pi, YOLOv8, and cloud deployment.  
-[🔗 GitHub](https://github.com/shivpatel0812/Building_Cap_Track)
-
-### 🎬 VideoAgent  
-CLIP-powered video understanding app with async APIs and vector search using PostgreSQL.  
-[🔗 GitHub](https://github.com/shivpatel0812/videoagent)
-
-### 🏈 NFL Defense Classification  
-Machine learning pipeline classifying NFL plays based on defensive formations.  
-[🔗 GitHub](https://github.com/shivpatel0812/NFLDefenseClassification)
-
-### 📊 AI Career Prediction  
-Predicts career paths based on input skillsets and background using Python-based ML models.  
-[🔗 GitHub](https://github.com/shivpatel0812/AICareerPrediction)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiv-patel-19a330205/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -72,14 +54,24 @@ Predicts career paths based on input skillsets and background using Python-based
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivpatel0812&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpatel0812&layout=compact&theme=github_dark" height="170"/>
-</p>
+### 🪪 AI Business Card Analyzer  
+AI-powered app that extracts and analyzes business cards using OpenAI Vision, AWS Lambda, and Firebase.  
+[🔗 GitHub](https://github.com/shivpatel0812/ai_business_analyzer)
 
----
+### 🏢 Building Capacity Tracker  
+Real-time library occupancy tracker using Raspberry Pi, YOLOv8, and cloud deployment.  
+[🔗 GitHub](https://github.com/shivpatel0812/Building_Cap_Track)
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiv-patel-19a330205/)
+### 🎬 VideoAgent  
+CLIP-powered video understanding app with async APIs and vector search using PostgreSQL.  
+[🔗 GitHub](https://github.com/shivpatel0812/videoagent)
+
+### 🏈 NFL Defense Classification  
+Machine learning pipeline classifying NFL plays based on defensive formations.  
+[🔗 GitHub](https://github.com/shivpatel0812/NFLDefenseClassification)
+
+### 📊 AI Career Prediction  
+Predicts career paths based on input skillsets and background using Python-based ML models.  
+[🔗 GitHub](https://github.com/shivpatel0812/AICareerPrediction)
